@@ -36,7 +36,7 @@ respec: >
 
 <section id="abstract">
   <p>
-    Your specification abstract goes here.
+    Respec documentation for the first module.
   </p>
 </section>
 
